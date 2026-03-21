@@ -1,3 +1,3 @@
 # Decentralized Name Assignment Service (DNAS)
 
-id: `0xe3` :p
+id: `0xe3`
