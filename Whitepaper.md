@@ -9,7 +9,9 @@ This paper introduces a new, novel peer to peer network for interacting with var
   - [ ] Command-Line Interface
   - [ ] Protocols
     - [ ] Authorativie Assignment Protocol (AAP): A Protocol to assign a role/service to a certificate using cryptography and digital signatures.
-    - [ ] Sumatra Worker Protocol
+    - [ ] Sumatra Worker Protocol (SWP): A Protocol for executing tasks for a client.
+    - [ ] Decentralized Name Assignment System (DNAS): A Decentralized, Namespace For Assigning Names To Services/Identities.
+    - [ ] Interopable Communications For Services (ICFS): An interoperable format for ol-services. Uses certain formats.
 - [X] Sumatra DAG
   - [X] Account Ledger Manager (ALMAC)
     - [X] Synthchains
