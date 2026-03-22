@@ -10,6 +10,12 @@
 
 DNS is an assignment protocol for assigning domain names to IP addresses and other sort of assignment. This paper introduces a new, decentralized, domain name assignment protocol for Web 3.20. This assignment protocol is standardized to make it easy for lots of people to use. The standard is defined below.
 
+## DNAS RECORDS
+
+`PIVOTADDR`: Uses a Pivot-Point For Domain Names, or more specifically a 32-48 byte hash of owner pivot point where the mapping of addresses takes place usually on a blockchain,
+
+`INTEROPCHAIN`: Uses a Blockchain for namespaces.
+
 ## 1. Domain Name System Using Pivots
 
 A PivotNamespace is a namespace created as a gateway to domain names. It is 32-48 bytes in size, but can alternatively be shorterned to 6-8 bytes.
