@@ -8,4 +8,7 @@ There exists many web 3.0 architectures of blockchains. A main focus is finding 
 
 The pull method is similar to Git's pull method and involves pulling data from sources, or decentralized repos of verified data. This methodology creates an ecosystem of data that can be used in a verifiable manner and extended on.
 
+## 1. Blocks of Data
+
+`Pull From Chain` works by storing data on decentralized, distributed networks for easy retrieval. Immutable Storage Solution Standard is standardized.
 
